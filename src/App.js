@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Button appearance="primary"> Hello world </Button>
+        <Button appearance="primary"> 测试 </Button>
       </div>
     );
   }
